@@ -19,4 +19,5 @@ The model achieves about 70% accuracy after 10 epochs of training.
 
 ---
 
-*This project was created as part of my college application to demonstrate practical AI skills.*
+*This project reflects practical skills gained through months of independent AI learning and was completed recently to showcase my understanding.*
+
